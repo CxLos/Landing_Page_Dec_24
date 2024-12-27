@@ -32,15 +32,15 @@ app.layout = html.Div(children=[
                 className='btn'),
                 html.A(
                 'Client Navigation',
-                href='https://nav-dec-24.onrender.com/',
+                href='https://nav-dec-2024.onrender.com/',
                 className='btn'),
                 html.A(
                 'Partner Engagement',
-                href='https://eng-dec-24.onrender.com',
+                href='https://eng-dec-2024.onrender.com',
                 className='btn'),
                 html.A(
                 'IT',
-                href='https://it-dec-24.onrender.com',
+                href='https://it-dec-2024.onrender.com',
                 className='btn')
             ])
     ])    
