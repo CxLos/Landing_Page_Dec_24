@@ -46,12 +46,12 @@ app.layout = html.Div(children=[
     ])    
 ])    
 
+print(f"Serving Flask app '{current_file}'! 🚀")
+
 if __name__ == '__main__':
     app.run_server(debug=
                 #    True)
                    False)
-
-print(f"Serving Flask app '{current_file}'! 🚀")
 
 # --------------------------------- KILL PORT -----------------------------------
 
